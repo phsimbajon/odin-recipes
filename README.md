@@ -1,0 +1,3 @@
+In this project we will be creating a basic recipe website applying my knowledge on how websites are stuctured through HTML which is the backbone of all websites. 
+I have applied the use of the HTML boilerplate, and elements and tags such as headings, paragraphs, lists (ordered and unordered), links, and images. After all that 
+commiting the the files I have coded so that people can review my code and website
